@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
-  <formatVersion>7</formatVersion>
+	<formatVersion>7</formatVersion>
   
 	<view name="splash">
-
 		<splash name="splash">
 			<backgroundColor>000000FF</backgroundColor>
 		</splash>
@@ -36,7 +35,6 @@
 			<size>0.955 0.065</size>
 			<rotation>-74</rotation>
 			<rotationOrigin>1.1 1.6</rotationOrigin>
-		</image>
-		
+		</image>	
 	</view>	
 </theme>
